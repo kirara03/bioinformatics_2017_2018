@@ -2,7 +2,7 @@
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/bioinformatics_2017_2018.svg?branch=master)](https://travis-ci.org/richelbilderbeek/bioinformatics_2017_2018)
+master|[![Build Status](https://travis-ci.org/kirara03/bioinformatics_2017_2018.svg?branch=master)](https://travis-ci.org/kirara03/bioinformatics_2017_2018)
 
 Practical Informatics for Biologists is a course at the University of Groningen 2017-2018.
 
